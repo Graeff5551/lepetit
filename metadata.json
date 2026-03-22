@@ -1,0 +1,7 @@
+{
+  "name": "Le Petit - Centro Clínico Veterinário",
+  "description": "Landing page de alta conversão para o Centro Clínico Veterinário Le Petit em Tramandaí, RS. Atendimento 24h, humanizado e especializado.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
